@@ -6,7 +6,7 @@ public class Cat extends Pet {
 
     @Override
     public void speak() {
-        System.out.println(" Kot mówi miau");
+        System.out.println(" Kot miauczy");
     }
 
 }
