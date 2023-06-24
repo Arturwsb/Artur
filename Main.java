@@ -7,7 +7,7 @@
         System.out.println(cat1.name + " is " +cat1.age + " old.");
         cat1.speak();
 
-        Dog dog1 = new Dog("Brutus", 7);
+        Dog dog1 = new Dog("Brutus", 15);
         System.out.println(dog1.name + " is " +dog1.age + " old.");
         dog1.speak();
 
