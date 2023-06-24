@@ -6,6 +6,6 @@ public class Dog extends  Pet{
 
     @Override
     public void speak() {
-        System.out.println("Pies mówi: how");;
+        System.out.println("Pies szczeka");;
     }
 }
