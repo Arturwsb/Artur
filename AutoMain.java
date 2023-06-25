@@ -10,7 +10,7 @@ public class AutoMain {
     }
 
     /*
-    Vehicle name, color
+    Vehicle name, colors
     car
     motorbike
     truck
